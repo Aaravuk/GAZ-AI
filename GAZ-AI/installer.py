@@ -1,0 +1,17 @@
+import pip
+
+pip.main(['install','googletrans'])
+pip.main(['install','pyttsx3'])
+pip.main(['install','speechrecognition'])
+pip.main(['install','bs4'])
+pip.main(['install','wolframalpha'])
+pip.main(['install','pywhatkit'])
+pip.main(['install','webbrowser'])
+pip.main(['install','wikipedia'])
+pip.main(['install','pyautogui'])
+pip.main(['install','pyjokes'])
+pip.main(['install','pyaudio'])
+pip.main(['install','pygame'])
+pip.main(['install','pillow'])
+pip.main(['install','matplotlib'])
+pip.main(['install','playsound'])
